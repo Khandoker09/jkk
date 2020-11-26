@@ -31,10 +31,7 @@ github_username:  Leibniz-HBI
 author: Leibniz HBI
 copyright: Leibniz HBI
 title-logo: /images/leibnizhbi_100x100.png
-baseurl: "/jkk" # the subpath of your site, e.g. /blog
-url: "https://khandoker09.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
 
 # Build settings
 #theme: minima
